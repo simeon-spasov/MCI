@@ -25,7 +25,7 @@ In addition, CUDA 9.0 and cuDNN 7 have been used.
 
 ## ROC curve
 <img src = "figures/ROC_cust-page-001.jpg" width="350" height="250">
-ROC curve for classifying using our custom MRI template (and demographic, genetic and cognitive measure)
+ROC curve for pMCI/sMCI classification using our custom MRI template (and demographic, genetic and cognitive measure)
 
 ## License
 MIT
